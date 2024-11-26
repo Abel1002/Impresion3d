@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abels\\Desktop\\Desarrollo\\Blazor\\W3dB\\W3dB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\W3dB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\W3dB.dp9omxulrj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\Desktop\\Desarrollo\\Blazor\\W3dB\\W3dB\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\Desktop\\Desarrollo\\Blazor\\W3dB\\W3dB\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.W3dB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.W3dB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.W3dB.props",
+      "PackagePath": "build\\W3dB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.W3dB.props",
+      "PackagePath": "buildMultiTargeting\\W3dB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.W3dB.props",
+      "PackagePath": "buildTransitive\\W3dB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
